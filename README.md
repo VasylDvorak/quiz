@@ -1,6 +1,7 @@
 # quiz
 
-A new Flutter project.
+Flutter project with new widgets.
+
 
 ## Getting Started
 
